@@ -21,5 +21,5 @@ Olivia Seow
 
 # Tools
 
-Unreal Engine
-Spark AR
+- Unreal Engine
+- Spark AR
