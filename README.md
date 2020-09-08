@@ -14,10 +14,7 @@ Live performance events have been postponed indefinitely due to the pandemic. Th
 
 # The team
 
-Aaron Santiago 
-Dyan Jong
-Nick Gregg
-Olivia Seow
+Aaron Santiago, Dyan Jong, Nick Gregg, Olivia Seow
 
 # Tools
 
