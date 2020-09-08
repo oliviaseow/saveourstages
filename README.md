@@ -4,9 +4,13 @@ Has social distancing got you down? Do you miss the days of being able to attend
 
 ![save our stages](saveourstages.gif)
 
+
 # The story
 
 Live performance events have been postponed indefinitely due to the pandemic. This is our team’s quirky tribute to the performing arts, crew, and community, bringing the stage to you and your home. We were inspired by the Save Our Stages movement, and the social and performance-based nature of Instagram Reels. Our team learned how to collaborate remotely, the new features of SparkAR, and faced challenges such as simplifying a complex concept into an elegant idea.
+
+# Try it!
+[Link](https://github.com/oliviaseow/saveourstages)
 
 # The team
 
