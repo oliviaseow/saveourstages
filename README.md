@@ -2,7 +2,7 @@
 
 Has social distancing got you down? Do you miss the days of being able to attend concerts? Use our filter to find your voice and your stage! But be careful, your voice might shatter the glass!
 
-![save our stages]()
+![save our stages](saveourstages.gif)
 
 # The story
 
